@@ -15,9 +15,8 @@ This Stock Predictor Web App is a powerful tool for analyzing and predicting sto
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries mentioned in the `requirements.txt` file.
-3. Run the app using `streamlit run app.py`.
-4. Input your preferred stock symbol and explore historical data and predictions.
+2. Run the app using `streamlit run app.py`.
+3. Input your preferred stock symbol and explore historical data and predictions.
 
 ## How It Works
 
