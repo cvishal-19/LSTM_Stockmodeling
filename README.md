@@ -1,6 +1,6 @@
 ## Overview
 
-"This project utilizes an LSTM (Long Short-Term Memory) model to predict stock prices based on historical data. The model incorporates technical indicators like RSI, CCI, VWAP, and ROC to generate trading signals, which are used to train and evaluate the LSTM."
+This project utilizes an LSTM (Long Short-Term Memory) model to predict stock prices based on historical data. The model incorporates technical indicators like RSI, CCI, VWAP, and ROC to generate trading signals, which are used to train and evaluate the LSTM.
 
 1. **Data Loading and Preprocessing**
    - Historical stock data is downloaded from Yahoo Finance.
